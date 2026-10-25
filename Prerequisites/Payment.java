@@ -1,3 +1,4 @@
+
 class Payment {
     private String paymentId;
     private long amount;
